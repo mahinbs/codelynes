@@ -35,10 +35,10 @@ const localBusinessSchema = {
   image: companyDetails.logo,
   address: {
     "@type": "PostalAddress",
-    streetAddress: "10-47 Ambedkar Nagar, Jawaharnagar",
-    addressLocality: "Turumalagiri",
+    streetAddress: "Sy No 41/13, Melkios Pride, 2nd Floor, Khanamet, Madhapur, Shaikpet",
+    addressLocality: "Hyderabad",
     addressRegion: "Telangana",
-    postalCode: "500087",
+    postalCode: "500081",
     addressCountry: "India",
   },
 };

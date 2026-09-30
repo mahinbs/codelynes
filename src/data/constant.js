@@ -56,7 +56,8 @@ export const services = [
 export const companyDetails = {
   logo: logoImg,
   phone: "+919618353666",
-  location: "Andhra Pradesh, Visakhapatnam, 530003",
+  location:
+    "Sy No 41/13, Melkios Pride, 2nd Floor, Khanamet, Madhapur, Shaikpet, Hyderabad, Telangana, India - 500081",
   email: "info@codelynes.com",
 };
 
